@@ -1,6 +1,8 @@
 # PDF-Tools
-Windows Form Application - C# - .NET Framework 4.6.1
 Merge PDF files, Append PDF files to an existing PDF file, Split specific pages from a PDF file and save them in a new file.
+
+## Items Used
+Windows Form Application - C# - .NET Framework 4.6.1
 
 
 ##Packages
